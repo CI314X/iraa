@@ -1,2 +1,2 @@
-# iraa
-Image robustness to adversarial attacks
+# Image Robustness to Adversarial Attacks (IRAA) model
+
