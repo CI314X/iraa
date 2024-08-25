@@ -1,18 +1,23 @@
-# Image Robustness to Adversarial Attacks (IRAA) model
+# Image Robustness to Adversarial Attacks model
 
 
-This repository is the implementation of AxCell: Automatic Extraction of Results from Machine Learning Papers.
+## Inference model
 
-Code will be published soon!
+Use pipeline:
+```
+main/iraa_inference.ipynb
+```
+
+## Structure
+
+- the /data/weights folder contains pretrained model weights trained on the MS COCO dataset (train2017).
+- the data/dataset_robustness folder contains the results of the IRAA model applied to popular public datasets.
+- the main/adversarial_attacks folder includes the code for the adversarial attacks used in this project.
+- the main/nr_ira_metrics folder contains the code for the NR-IQA metrics utilized.
+
+## ToDo
+- Provide data on the usage of adversarial attacks.
 
 
-## Citation
-
-
-
-
-План:
-- пайплайны с прогоном атак и метрик по данным
-- пайплайн с обучением моделей предсказывать взлом
-- пайплайн с применением моей модели (только инференс), + построение графиков из статьи
-- в папке data должны лежать csv прогонов
+https://drive.google.com/file/d/1iorbzFc5XYUId9gsZlFVcGXszhFEhHgO/view?usp=sharing - model weights
+https://drive.google.com/file/d/1UMFOw4YGoxqruOgIvqBD7ffpEwscM6fh/view?usp=sharing - UAP weights
