@@ -18,9 +18,7 @@ main/iraa_inference.ipynb
 ## Attacks
 The code for adversarial attacks can be found at the following repository: [MSU Metrics Robustness Benchmark](https://github.com/msu-video-group/MSU_Metrics_Robustness_Benchmark]).
 
-## ToDo
-- Provide data on the usage of adversarial attacks.
 
-
-https://drive.google.com/file/d/1iorbzFc5XYUId9gsZlFVcGXszhFEhHgO/view?usp=sharing - model weights
-https://drive.google.com/file/d/1UMFOw4YGoxqruOgIvqBD7ffpEwscM6fh/view?usp=sharing - UAP weights
+### External Data
+ - model weights: https://drive.google.com/file/d/1iorbzFc5XYUId9gsZlFVcGXszhFEhHgO/view?usp=sharing
+- UAP weights: https://drive.google.com/file/d/1UMFOw4YGoxqruOgIvqBD7ffpEwscM6fh/view?usp=sharing
