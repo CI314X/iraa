@@ -15,6 +15,9 @@ main/iraa_inference.ipynb
 - the main/adversarial_attacks folder includes the code for the adversarial attacks used in this project.
 - the main/nr_ira_metrics folder contains the code for the NR-IQA metrics utilized.
 
+## Attacks
+The code for adversarial attacks can be found at the following repository: [MSU Metrics Robustness Benchmark](https://github.com/msu-video-group/MSU_Metrics_Robustness_Benchmark]).
+
 ## ToDo
 - Provide data on the usage of adversarial attacks.
 
